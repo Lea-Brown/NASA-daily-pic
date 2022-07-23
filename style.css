@@ -1,0 +1,20 @@
+body {
+    background: #003b59;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: wheat;
+    margin: 5%;
+}
+
+img {
+    display: block;
+    width: 100%;
+    border-radius: 10Px;
+    margin: 0 auto;
+}
+
+p {
+
+    width: 100%;
+    padding-top: 20px;
+    margin: 0 auto;
+}
